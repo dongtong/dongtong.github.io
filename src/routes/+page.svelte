@@ -1,5 +1,7 @@
 <h1>部署SvelteKit到GitHub Pages</h1>
 
+<p>Test deployment</p>
+
 <p>
 	It is super easy to publish SvelteKit project on GitHub Pages. Create a GitHub repo before
 	starting this.
